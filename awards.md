@@ -26,4 +26,4 @@ title: Awards
 - Sep 2022 - June 2023：Director of project department of Student Science and Technology Association,Youth League Committee, Shanghai Jiao Tong University
 
 
-Lastest Update: 8th August 2023 &nbsp; [中文 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+
