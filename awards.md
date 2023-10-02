@@ -6,12 +6,12 @@ title: Awards
 
 ## Scholarships
 
-- February 2023：Shanghai Jiao Tong University-Suzhou Industrial Park Scholarship
-- December 2022：Shanghai Jiao Tong University ABC Scholarship
+- Feb 2023：Shanghai Jiao Tong University-Suzhou Industrial Park Scholarship
+- Dec 2022：Shanghai Jiao Tong University ABC Scholarship
 
 
 ## Competitions
-
+- Sep 2023：Second prize of the 8th "Qian Xuesen Cup" extra-curricular Academic Science and Technology Works Competition of Shanghai Jiao Tong University
 
 
 ## Honors
