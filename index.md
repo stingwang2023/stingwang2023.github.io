@@ -6,15 +6,15 @@ layout: page
 
 <img src="https://stingwang2023.github.io/图片1.png" class="floatpic" width="360" height="480">
 
-Here is **Shuting Wang ([王姝婷](https://stingwang2023.github.io/file/简历-中文版.docx))**.
+Here is **Shuting Wang ([王姝婷](https://stingwang2023.github.io/file/简历-中文版.pdf))**.
 
-I am a ungraduate student majoring in **Materials Science and Engineering** at Shanghai Jiao Tong University. I am extremely fortunate to be advised by [Xiaoqiu Dou](https://smse.sjtu.edu.cn/people/detail/152) . Here is [my CV](https://stingwang2023.github.io/file/Curriculum Vitae-Shuting Wang.pdf).
+I am an ungraduate student majoring in **Materials Science and Engineering** at Shanghai Jiao Tong University. I am extremely fortunate to be advised by [Xiaoqiu Dou](https://smse.sjtu.edu.cn/people/detail/152) . Here is [my CV](https://stingwang2023.github.io/file/Curriculum Vitae-Shuting Wang.pdf).
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
+**<font color='blue'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
 
 - **Sep 2020 - June 2024:** Shanghai Jiao Tong University (BEng)
 
