@@ -26,7 +26,7 @@ I am an ungraduate student majoring in **Materials Science and Engineering** at 
 
 - biological soft materials
 - supramolecular assemblies
-- Applied chiral materials
+- Applied advanced materials
 
 My current research focuses on practical problems that cancer therapy faces in real life. My interests are on the **supramolecular assemblies** and its applications in **Biomaterials**. In a word, advanced technologies like biological soft materials positively influence the development of medicine and pharmacy.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
